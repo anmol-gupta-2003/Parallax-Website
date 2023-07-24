@@ -12,4 +12,4 @@ window.addEventListener('scroll', () => {
     treeRight.style.left = value * 1.5 +'px';
     gateLeft.style.left = value * 0.5 +'px';
     gateRight.style.left = value * -0.5 +'px';
-})
+});
